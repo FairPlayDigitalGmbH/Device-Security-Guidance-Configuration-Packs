@@ -108,7 +108,7 @@
 				<integer>0</integer>
 			</dict>
 			<key>UserDefinedName</key>
-			<string>NCSC Example VPN configuration</string>
+			<string>HGFD Example VPN configuration</string>
 			<key>VPNType</key>
 			<string>AlwaysOn</string>
 			<key>VendorConfig</key>
@@ -118,7 +118,7 @@
 	<key>PayloadDescription</key>
 	<string>This configuration profile contains an example VPN configuration that can be used as a starting point for your own configuration. Configuration options included in this profile should be customised to your particular requirements.</string>
 	<key>PayloadDisplayName</key>
-	<string>NCSC Example VPN configuration</string>
+	<string>HGFD Example VPN configuration</string>
 	<key>PayloadIdentifier</key>
 	<string>uk.gov.ncsc.ios.vpn.example</string>
 	<key>PayloadOrganization</key>

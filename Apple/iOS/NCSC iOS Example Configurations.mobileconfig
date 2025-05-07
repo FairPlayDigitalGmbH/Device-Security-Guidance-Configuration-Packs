@@ -256,11 +256,11 @@
 	<key>PayloadDescription</key>
 	<string>This configuration profile contains example configurations that can be used as a starting point for your own iOS devices.  Configuration options enforced by this profile should be customised to your particular requirements. </string>
 	<key>PayloadDisplayName</key>
-	<string>NCSC iOS Example Configurations</string>
+	<string>HGFD iOS Example Configurations</string>
 	<key>PayloadIdentifier</key>
 	<string>com.ncsc.profile</string>
 	<key>PayloadOrganization</key>
-	<string>NCSC</string>
+	<string>HGFD</string>
 	<key>PayloadRemovalDisallowed</key>
 	<false/>
 	<key>PayloadType</key>

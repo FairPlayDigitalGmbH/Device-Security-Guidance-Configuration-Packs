@@ -9,7 +9,7 @@
   "deviceManagementApplicabilityRuleDeviceMode": null,
   "createdDateTime": "/Date(1632817291462)/",
   "description": null,
-  "displayName": "NCSC - Firewall Rules",
+  "displayName": "HGFD - Firewall Rules",
   "version": 3,
   "dmaGuardDeviceEnumerationPolicy": "deviceDefault",
   "userRightsAccessCredentialManagerAsTrustedCaller": null,

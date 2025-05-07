@@ -9,7 +9,7 @@
   "deviceManagementApplicabilityRuleDeviceMode": null,
   "createdDateTime": "/Date(1632817279290)/",
   "description": null,
-  "displayName": "NCSC - Attack Surface Reduction Rules",
+  "displayName": "HGFD - Attack Surface Reduction Rules",
   "version": 3,
   "dmaGuardDeviceEnumerationPolicy": "deviceDefault",
   "userRightsAccessCredentialManagerAsTrustedCaller": null,

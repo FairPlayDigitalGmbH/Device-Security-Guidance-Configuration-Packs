@@ -11,7 +11,7 @@
     "deviceManagementApplicabilityRuleDeviceMode":  null,
     "createdDateTime":  "2021-08-06T11:21:16.9941657Z",
     "description":  null,
-    "displayName":  "NCSC - Web Protections (DR)",
+    "displayName":  "HGFD - Web Protections (DR)",
     "version":  3,
     "taskManagerBlockEndTask":  false,
     "energySaverOnBatteryThresholdPercentage":  null,

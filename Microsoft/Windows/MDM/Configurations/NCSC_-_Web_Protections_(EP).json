@@ -9,7 +9,7 @@
   "deviceManagementApplicabilityRuleDeviceMode": null,
   "createdDateTime": "2020-11-19T14:47:30.0534374Z",
   "description": null,
-  "displayName": "NCSC - Web Protections (EP)",
+  "displayName": "HGFD - Web Protections (EP)",
   "version": 2,
   "dmaGuardDeviceEnumerationPolicy": "deviceDefault",
   "localSecurityOptionsBlockMicrosoftAccounts": false,

@@ -9,7 +9,7 @@
   "deviceManagementApplicabilityRuleDeviceMode": null,
   "createdDateTime": "/Date(1632817285957)/",
   "description": null,
-  "displayName": "NCSC - Defender AV Security Experience",
+  "displayName": "HGFD - Defender AV Security Experience",
   "version": 3,
   "dmaGuardDeviceEnumerationPolicy": "deviceDefault",
   "userRightsAccessCredentialManagerAsTrustedCaller": null,

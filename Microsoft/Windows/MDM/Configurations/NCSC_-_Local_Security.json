@@ -9,7 +9,7 @@
   "deviceManagementApplicabilityRuleDeviceMode": null,
   "createdDateTime": "/Date(1632817296395)/",
   "description": null,
-  "displayName": "NCSC - Local Security",
+  "displayName": "HGFD - Local Security",
   "version": 3,
   "dmaGuardDeviceEnumerationPolicy": "deviceDefault",
   "userRightsAccessCredentialManagerAsTrustedCaller": null,

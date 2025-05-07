@@ -313,7 +313,7 @@
 	<key>PayloadDescription</key>
 	<string>This configuration profile contains an example lockdown that can be used as a starting point for your own configuration. Configuration options enforced by this profile should be customised to your particular requirements.</string>
 	<key>PayloadDisplayName</key>
-	<string>NCSC Example Lockdown</string>
+	<string>HGFD Example Lockdown</string>
 	<key>PayloadIdentifier</key>
 	<string>uk.gov.ncsc.ios.lockdown.example</string>
 	<key>PayloadOrganization</key>
